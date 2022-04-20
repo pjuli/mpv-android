@@ -6,10 +6,11 @@
     android:id="@+id/main_layout"
     tools:context="is.xyz.mpv.MainActivity">
 
-    <fragment android:name="is.xyz.mpv.MPVFilePickerFragment"
+    <fragment
+        android:id="@+id/file_picker_fragment"
+        android:name="is.xyz.mpv.MPVFilePickerFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/file_picker_fragment"
         tools:layout="@layout/nnf_fragment_filepicker" />
 
     <TextView

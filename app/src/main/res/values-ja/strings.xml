@@ -146,4 +146,5 @@
     <string name="pref_bottom_controls_title">コントロールを画面の一番下に表示</string>
     <string name="pref_ignore_audio_focus_summary">ほかのアプリが音声出力した際に再生を一時停止または音量を下げることをしない</string>
     <string name="pref_ignore_audio_focus_title">音声フォーカスを無視</string>
+    <string name="sub_size" />
 </resources>

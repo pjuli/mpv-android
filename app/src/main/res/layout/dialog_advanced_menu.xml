@@ -150,6 +150,15 @@
                 android:text="@string/sub_delay"
                 android:textAllCaps="false" />
 
+            <Button
+                android:id="@+id/subSizeBtn"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/sub_size"
+                android:textAllCaps="false" />
+
         </TableRow>
 
         <Button
